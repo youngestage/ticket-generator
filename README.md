@@ -1,2 +1,2 @@
-# ticket-generator-1.0
+# ticket-generator
 ticket-generator-project
